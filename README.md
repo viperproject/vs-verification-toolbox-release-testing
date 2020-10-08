@@ -10,3 +10,5 @@ The assets have been created as follows:
 - small.zip: `zip small.zip small.bin`
 - medium.zip: `zip medium.zip medium.bin`
 - large.zip: `zip large.zip large.bin`
+
+Note that each release uses newly generated `.bin` files.
