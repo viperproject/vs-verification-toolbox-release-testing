@@ -1,2 +1,3 @@
 # vs-verification-toolbox-release-testing
-Repository with some releases to test vs-verification-toolbox
+This repository is intenionally left empty.
+It's main purpose is to host several pre- and non-prereleases that can be used to test some features in the vs-verification-toolbox repository.
